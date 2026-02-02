@@ -1,0 +1,8 @@
+nts/public/js/lib/*
+nts/public/js/nts/misc/tests/*
+nts/public/js/nts/views/test_runner.js
+nts/core/doctype/doctype/boilerplate/*
+nts/core/doctype/report/boilerplate/*
+nts/public/js/nts/class.js
+nts/templates/includes/*
+nts/www/website_script.js

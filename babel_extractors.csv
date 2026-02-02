@@ -1,0 +1,14 @@
+**/hooks.py,nts.gettext.extractors.navbar.extract
+**/doctype/*/*.json,nts.gettext.extractors.doctype.extract
+**/workspace/*/*.json,nts.gettext.extractors.workspace.extract
+**/web_form/*/*.json,nts.gettext.extractors.web_form.extract
+**/onboarding_step/*/*.json,nts.gettext.extractors.onboarding_step.extract
+**/module_onboarding/*/*.json,nts.gettext.extractors.module_onboarding.extract
+**/report/*/*.json,nts.gettext.extractors.report.extract
+**.py,nts.gettext.extractors.python.extract
+**/templates/**.js,nts.gettext.extractors.html_template.extract
+**.js,nts.gettext.extractors.javascript.extract
+**.html,nts.gettext.extractors.html_template.extract
+**.vue,nts.gettext.extractors.html_template.extract
+**/custom/*.json,nts.gettext.extractors.customization.extract
+**/fixtures/custom_field.json,nts.gettext.extractors.custom_field.extract
