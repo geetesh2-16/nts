@@ -21,7 +21,7 @@ dependencies = [
     # do NOT add loose requirements on PyMySQL versions.
     "PyMySQL==1.1.2",
     "pypdf==6.6.2",
-    "PyPika = "0.48.9",
+    "PyPika=="0.48.9",
     "mysqlclient==2.2.7",
     "PyQRCode~=1.2.1",
     "PyYAML~=6.0.3",
