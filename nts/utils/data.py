@@ -1,6 +1,6 @@
 # Copyright (c) 2022, nts Technologies Pvt. Ltd. and Contributors
 # License: MIT. See LICENSE
-from __future__ import annotations
+
 import base64
 import calendar
 import datetime
